@@ -54,5 +54,9 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 12. ketik "php artisan serve" dan tekan enter
 13. Buka web browser dan tulis 'http://127.0.0.1:8000/' di form url lalu tekan enter.
 
+
+##
+login admin /admin
+
 ## Kontak
 prima.aulia333@gmail.com
