@@ -45,7 +45,7 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 3. Letakkan repositori di dalam folder htdocts xampp kamu.
 4. Buka aplikasi xampp dan klik start pada apache dan mysql.
 5. cp .env.example .env
-6. File env dan sesuaikan dengan sistem kita
+6. File env dan sesuaikan dengan sistem kita (buat database dan sesuaikan nama database di env)
 7. Buka CMD dan arahkan ke direktori ini.
 8. Ketik "composer install" dan tekan enter
 9. ketik "php artisan key:generate" dan tekan enter
