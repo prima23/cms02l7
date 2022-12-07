@@ -54,39 +54,5 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 12. ketik "php artisan serve" dan tekan enter
 13. Buka web browser dan tulis 'http://127.0.0.1:8000/' di form url lalu tekan enter.
 
-
-## Screenshot Halaman Admin
-<p align='Left' valign='top'>
-  <span>
-		<img src='https://github.com/prima23/cms02l7/blob/master/ScreenShot/admin-dashboard.png'  width=400 />
-		<img src='https://github.com/prima23/cms02l7/blob/master/ScreenShot/admin-category.png'  width=400 />
-		<img src='https://github.com/prima23/cms02l7/blob/master/ScreenShot/admin-articles.png'  width=400 />
-	    <img src='https://github.com/prima23/cms02l7/blob/master/ScreenShot/admin-about.png'  width=400 />
-  </span>
-</p>
-
-<br />
-<br />
-
-## Screenshot Halaman User
-<p align='Left' valign='top'>
-    <span>
-        <img src='https://github.com/prima23/cms02l7/blob/main/ScreenShot/user-home.jpg'  width=400 />
-        <img src='https://github.com/prima23/cms02l7/blob/main/ScreenShot/user-articles.png'  width=400 />
-    </span>
-</p>
-
-<p align='Left' valign='top'>
-    <span>
-        <img src='https://github.com/prima23/cms02l7/blob/main/ScreenShot/user-destinations.jpg'  width=400 />
-        <img src='https://github.com/prima23/cms02l7/blob/main/ScreenShot/user-contact.png'  width=400 />
-    </span>
-</p>
-
-
-
-<br />
-<br />
-
 ## Kontak
 prima.aulia333@gmail.com
