@@ -71,15 +71,15 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 ## Screenshot Halaman User
 <p align='Left' valign='top'>
     <span>
-        <img src='https://github.com/prima23/cms02l7/blob/master/ScreenShot/user-home.jpg'  width=400 />
-        <img src='https://github.com/prima23/cms02l7/blob/master/ScreenShot/user-articles.png'  width=400 />
+        <img src='https://github.com/prima23/cms02l7/blob/main/ScreenShot/user-home.jpg'  width=400 />
+        <img src='https://github.com/prima23/cms02l7/blob/main/ScreenShot/user-articles.png'  width=400 />
     </span>
 </p>
 
 <p align='Left' valign='top'>
     <span>
-        <img src='https://github.com/prima23/cms02l7/blob/master/ScreenShot/user-destinations.jpg'  width=400 />
-        <img src='https://github.com/prima23/cms02l7/blob/master/ScreenShot/user-contact.png'  width=400 />
+        <img src='https://github.com/prima23/cms02l7/blob/main/ScreenShot/user-destinations.jpg'  width=400 />
+        <img src='https://github.com/prima23/cms02l7/blob/main/ScreenShot/user-contact.png'  width=400 />
     </span>
 </p>
 
